@@ -1,6 +1,6 @@
 # SpringBootCRUDExample-using-CrudRepository-SpringJPA-Mysql
-Spring Boot CRUD Example using CrudRepository.Spring provides CrudRepository implementation class automatically at runtime.
-Its implements all method.using Spring Data JPA + Mysql console Application 
+<p>Spring Boot CRUD Example using CrudRepository.<br>Spring provides CrudRepository implementation class automatically at runtime.<br>
+Its implements all method.using<b> Spring Data JPA + Mysql console Application </b></p>
 Download this project then import in eclipse
 
   <h1>User Control Login Panel</h1>
